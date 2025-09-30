@@ -1,0 +1,1 @@
+This repository is an educational playground for anyone who wants to understand how machine learning works under the hood. Rather than relying on libraries, you’ll find minimal, easy-to-read implementations, interactive Jupyter notebooks for each algos.
